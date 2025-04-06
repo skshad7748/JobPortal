@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Full Stack Developer",
+    "description": "We are looking for a Full Stack Developer to join our dynamic team. The ideal candidate will have experience with both frontend and backend development.",
+    "requirements": [
+      "3+ years of experience with JavaScript",
+      "Strong knowledge of React.js and Node.js",
+      "Experience with MongoDB or similar NoSQL databases",
+      "Good understanding of REST APIs"
+    ],
+    "salary": 95000,
+    "experienceLevel": 3,
+    "location": "New York, NY",
+    "jobType": "Full-time",
+    "position": 2
+  },
+  {
+    "title": "Senior Python Developer",
+    "description": "Looking for an experienced Python developer to lead our backend team and mentor junior developers.",
+    "requirements": [
+      "5+ years of Python development",
+      "Experience with Django framework",
+      "Knowledge of SQL and database design",
+      "Team leadership experience"
+    ],
+    "salary": 120000,
+    "experienceLevel": 5,
+    "location": "San Francisco, CA",
+    "jobType": "Full-time",
+    "position": 1
+  },
+  {
+    "title": "Data Scientist",
+    "description": "Join our data science team to help build predictive models and analyze large datasets.",
+    "requirements": [
+      "MS/PhD in Computer Science, Statistics, or related field",
+      "Experience with Python and R",
+      "Knowledge of machine learning algorithms",
+      "Experience with big data technologies"
+    ],
+    "salary": 110000,
+    "experienceLevel": 4,
+    "location": "Boston, MA",
+    "jobType": "Full-time",
+    "position": 2
+  }
+]

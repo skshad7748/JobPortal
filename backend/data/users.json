@@ -1,0 +1,42 @@
+[
+  {
+    "fullname": "John Doe",
+    "email": "john.doe@example.com",
+    "phoneNumber": 1234567890,
+    "password": "$2a$10$YourHashedPasswordHere",
+    "role": "student",
+    "profile": {
+      "bio": "Fresh graduate in Computer Science",
+      "skills": ["JavaScript", "React", "Node.js"],
+      "resume": "",
+      "resumeOriginalName": "",
+      "profilePhoto": ""
+    }
+  },
+  {
+    "fullname": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "phoneNumber": 9876543210,
+    "password": "$2a$10$YourHashedPasswordHere",
+    "role": "student",
+    "profile": {
+      "bio": "Software Engineer with 2 years experience",
+      "skills": ["Python", "Django", "PostgreSQL"],
+      "resume": "",
+      "resumeOriginalName": "",
+      "profilePhoto": ""
+    }
+  },
+  {
+    "fullname": "Mike Johnson",
+    "email": "mike.johnson@techcorp.com",
+    "phoneNumber": 5555555555,
+    "password": "$2a$10$YourHashedPasswordHere",
+    "role": "recruiter",
+    "profile": {
+      "bio": "Senior HR Manager at TechCorp",
+      "skills": ["Recruitment", "HR Management"],
+      "profilePhoto": ""
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "TechCorp",
+    "description": "Leading technology solutions provider",
+    "website": "https://techcorp.example.com",
+    "location": "New York, NY",
+    "logo": "https://example.com/logos/techcorp.png"
+  },
+  {
+    "name": "InnovateSoft",
+    "description": "Innovative software development company",
+    "website": "https://innovatesoft.example.com",
+    "location": "San Francisco, CA",
+    "logo": "https://example.com/logos/innovatesoft.png"
+  },
+  {
+    "name": "DataTech Solutions",
+    "description": "Big data and analytics company",
+    "website": "https://datatech.example.com",
+    "location": "Boston, MA",
+    "logo": "https://example.com/logos/datatech.png"
+  }
+]
